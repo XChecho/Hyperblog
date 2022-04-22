@@ -1,5 +1,6 @@
-Esta es la historia de aja.
+Esta es la historia de Sergio Morales.
 
-Vamos a ver que no enseña.
+Esta aprendiendo a programar, 
+y a utilizar Git, y Github.
 
-Vamos a por ello.
+Vamos a por ellos.
