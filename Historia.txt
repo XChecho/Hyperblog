@@ -1,4 +1,4 @@
-Esta es la historia de Sergio Morales.
+Esta es la vida de Sergio Morales.
 
 Esta aprendiendo a programar, 
 y a utilizar Git, y Github.
