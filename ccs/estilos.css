@@ -41,6 +41,12 @@ body
     background: white;
     padding: 1em;
 }
+#post #developer{
+    width: 100%;
+    position: relative;
+
+
+}
 #footer {
    background: #777; 
    color: white;
